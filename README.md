@@ -14,6 +14,8 @@ OBS Studio se destaca por su gran comunidad de usuarios que están siempre dispu
 
 **Repositorio de OBS Studio en GitHub:** [Repositorio de OBS Studio en GitHub](https://github.com/obsproject/obs-studio)
 
+## Configuración óptima para PC de  bajos recursos:
+
 **Pasos para configurar OBS para PC de bajos recursos:**
 
 1. Abre OBS Studio.
@@ -22,14 +24,14 @@ OBS Studio se destaca por su gran comunidad de usuarios que están siempre dispu
 4. En la pestaña **Calidad de video**, selecciona **ultrafast** como modo de codificación.
 5. En la pestaña **Tasa de bits**, establece la tasa de bits en **2500 kbps**.
 
-**Consejos para mejorar el rendimiento en PC de bajos recursos:**
+##**Consejos para mejorar el rendimiento en PC de bajos recursos:**
 
 - Cierra todas las demás aplicaciones que no estés usando.
 - Deshabilita los efectos visuales en el sistema operativo.
 - Actualiza los controladores de la tarjeta gráfica.
 - Considera reducir la resolución de tu monitor durante la grabación si experimentas problemas de rendimiento.
 
-**Atajos recomendados:**
+##**Atajos recomendados:**
 
 - Iniciar/Detener grabación: **Ctrl + Alt + R**
 - Iniciar/Detener transmisión: **Ctrl + Alt + T**
@@ -47,7 +49,7 @@ OBS Studio se destaca por su gran comunidad de usuarios que están siempre dispu
 4. En la pestaña **Calidad de video**, selecciona **veryfast** o **faster** como modo de codificación.
 5. En la pestaña **Tasa de bits**, establece la tasa de bits en **10.000 kbps o más**.
 
-**Consejos para mejorar la calidad en PC de gama alta:**
+##**Consejos para mejorar la calidad en PC de gama alta:**
 
 - Usa una tarjeta gráfica dedicada de alta gama.
 - Asegúrate de que tu PC tenga suficiente RAM.
@@ -55,7 +57,7 @@ OBS Studio se destaca por su gran comunidad de usuarios que están siempre dispu
 - Considera invertir en un micrófono de calidad para mejorar el audio de tus grabaciones.
 - Configura atajos de teclado personalizados para un flujo de trabajo más eficiente.
 
-**Atajos recomendados:**
+##**Atajos recomendados:**
 
 - Iniciar/Detener grabación: **Ctrl + Alt + R**
 - Iniciar/Detener transmisión: **Ctrl + Alt + T**
