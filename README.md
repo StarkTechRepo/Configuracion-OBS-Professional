@@ -33,11 +33,11 @@ OBS Studio se destaca por su gran comunidad de usuarios que están siempre dispu
 
 ##**Atajos recomendados:**
 
-- Iniciar/Detener grabación: **Ctrl + Alt + R**
-- Iniciar/Detener transmisión: **Ctrl + Alt + T**
-- Cambiar escena: **Ctrl + Tab**
-- Agregar escena: **Ctrl + Shift + N**
-- Eliminar escena: **Ctrl + Shift + Supr**
+- Iniciar/Detener grabación: **```Ctrl + Alt + R```**
+- Iniciar/Detener transmisión: **```Ctrl + Alt + T```**
+- Cambiar escena: **```Ctrl + Tab```**
+- Agregar escena: **```Ctrl + Shift + N```**
+- Eliminar escena: **```Ctrl + Shift + Supr```**
 
 ## Configuración óptima para PC de gama alta
 
@@ -59,11 +59,11 @@ OBS Studio se destaca por su gran comunidad de usuarios que están siempre dispu
 
 ##**Atajos recomendados:**
 
-- Iniciar/Detener grabación: **Ctrl + Alt + R**
-- Iniciar/Detener transmisión: **Ctrl + Alt + T**
-- Cambiar escena: **Ctrl + Tab**
-- Agregar escena: **Ctrl + Shift + N**
-- Eliminar escena: **Ctrl + Shift + Supr**
+- Iniciar/Detener grabación: **```Ctrl + Alt + R```**
+- Iniciar/Detener transmisión: **```Ctrl + Alt + T```**
+- Cambiar escena: **```Ctrl + Tab```**
+- Agregar escena: *```*Ctrl + Shift + N```**
+- Eliminar escena: **```Ctrl + Shift + Supr```**
 
 ## Configurar el tipo de formato de exportación en OBS Studio
 
